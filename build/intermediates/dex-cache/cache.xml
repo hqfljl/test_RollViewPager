@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\android-sdk_r24.1.2-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="I:\RollViewpager\test_RollViewPager\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\RollViewpager\test_RollViewPager\app\libs\ImageCacheLoader.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="26.0.0"
+        sha1="96eda441d0d5799764e9f2c40a3a8ed033ff594b">
+        <dex dex="I:\RollViewpager\test_RollViewPager\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>
